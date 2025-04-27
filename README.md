@@ -4,6 +4,6 @@
 Miembros: Lorenzo Daz, Franco Esterellas y Agustín Pedrotti.
 
 ### Enlaces a las secciones:
-[https://github.com/FrancoEsterellasUA/MarkdownGuideBookProject/blob/main/LorenzoDaz.md]
-[https://github.com/FrancoEsterellasUA/MarkdownGuideBookProject/blob/main/Franco.md]
-[https://github.com/FrancoEsterellasUA/MarkdownGuideBookProject/blob/main/agus.md]
+**Tralalero Tralala** (Escrito por Lorenzo Daz): [https://github.com/FrancoEsterellasUA/MarkdownGuideBookProject/blob/main/LorenzoDaz.md]
+**Boberito Bondito** (Escrito por Franco Esterellas):[https://github.com/FrancoEsterellasUA/MarkdownGuideBookProject/blob/main/Franco.md]
+**Bombardilo Crocodilo** (Escrito por Agustín Pedrotti):[https://github.com/FrancoEsterellasUA/MarkdownGuideBookProject/blob/main/agus.md]
